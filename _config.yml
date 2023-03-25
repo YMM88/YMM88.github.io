@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 淼的博客
+title: 个人博客
 subtitle:
 description:
 author: Hello World
@@ -152,9 +152,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
